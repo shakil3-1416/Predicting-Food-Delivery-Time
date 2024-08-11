@@ -10,18 +10,30 @@ Test Set Size: 2,774 records
 
 # Features:
 Restaurant: Unique ID for the restaurant
+
 Location: Restaurant’s location
+
 Cuisines: Types of cuisines offered
+
 Average_Cost: Average cost per order
+
 Minimum_Order: Minimum order amount
+
 Rating: Restaurant’s customer rating
+
 Votes: Total customer votes
+
 Reviews: Number of customer reviews
+
 Delivery_Time: Target variable representing order delivery time
 
 # Project Objectives
 Data Preprocessing: Clean and prepare the data for modeling.
+
 Exploratory Data Analysis (EDA): Analyze relationships between features and delivery times.
+
 Feature Engineering: Create or modify features to improve model performance.
+
 Model Development: Train and evaluate models to predict delivery times.
+
 Model Evaluation: Assess model accuracy using metrics such as RMSE and MAE.
